@@ -1,1 +1,3 @@
-apt update && apt install wmaker -y && apt install chromium -y && apt install xrdp && service xrdp start && wget https://bin.equinox.io/c/bNyj1mQVY4c/ngrok-v3-stable-linux-amd64.tgz && tar xf n* && ls && rm ngrok-v* && ./ngrok config add-authtoken 2UYB493HZxFcNPJ90dhhLDadiyY_7AyqnqTu12fNTdfsueJ3Z && ./ngrok tcp 3389
+wget -O w7x64.sh https://bit.ly/windows7x64gitpod
+chmod +x w7x64.sh
+./w7x64.sh
